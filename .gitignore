@@ -1,0 +1,18 @@
+# RStudio files
+.Rproj.user/
+.Rhistory
+.Renviron
+.RDataTmp
+
+# Para Python
+venv/
+.venv/
+
+# Folders
+
+# Other files
+*.pdf
+*.docx
+*.pnj
+*.jpg
+*.jpeg
