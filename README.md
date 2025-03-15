@@ -15,6 +15,8 @@ El Dashboard contiene 5 pestañas principales y se organiza de la siguiente form
   * Informacion BEER
 * Filtros
 * PPC
+![MTCRE_pestanas1](https://github.com/user-attachments/assets/39acb30d-e213-48eb-b1e1-da9860e3e55b)
+
 
 ## Pestaña BEER
 
