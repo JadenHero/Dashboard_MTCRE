@@ -15,6 +15,7 @@ El Dashboard contiene 5 pestañas principales y se organiza de la siguiente form
   * Informacion BEER
 * Filtros
 * PPC
+  
 ![1_gf](https://github.com/user-attachments/assets/62697166-f3ab-4efc-b7fd-ef67302ddcb1)
 
 
