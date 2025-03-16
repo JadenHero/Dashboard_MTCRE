@@ -18,9 +18,7 @@ El Dashboard contiene 5 pestañas principales y se organiza de la siguiente form
 
 ![ezyZip](https://github.com/user-attachments/assets/45b4a346-c4b4-4384-845d-8ee230d5fd1f)
 
-
-
-
+## Panel de Control
 
 
 ## Pestaña BEER
@@ -29,4 +27,4 @@ El Dashboard contiene 5 pestañas principales y se organiza de la siguiente form
 
 ## Pestaña PPC
 
-## Panel de Control
+
