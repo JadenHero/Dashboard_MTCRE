@@ -16,7 +16,8 @@ El Dashboard contiene 5 pestañas principales y se organiza de la siguiente form
 * Filtros
 * PPC
   
-![1_gf](https://github.com/user-attachments/assets/62697166-f3ab-4efc-b7fd-ef67302ddcb1)
+![1_gf_2](https://github.com/user-attachments/assets/93dabfa8-914a-4392-9660-741f481d3809)
+
 
 
 
